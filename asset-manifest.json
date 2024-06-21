@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-planner/static/css/main.33775c49.css",
+    "main.js": "/react-planner/static/js/main.6ea87dcc.js",
+    "index.html": "/react-planner/index.html",
+    "main.33775c49.css.map": "/react-planner/static/css/main.33775c49.css.map",
+    "main.6ea87dcc.js.map": "/react-planner/static/js/main.6ea87dcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33775c49.css",
+    "static/js/main.6ea87dcc.js"
+  ]
+}
